@@ -1,2 +1,5 @@
 *env
 *models
+sharepoint_creds.py
+sharepoint_dl.ipynb
+sharepoint_files/
